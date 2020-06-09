@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+header > nav{
+	background: #2F303A !important;
+}
+.firstHalf{
+	background: #2F303A;
+}
+.secondHalf{
+	background: #1C1D25;
+	color: #fff !important;
+}
+.rightForm{
+	background: #1C1D25;
+}
+.phone{
+	float: left;
+}
+.location{
+	display: inline-block;
+}
+.app{
+	color: #fff;
+	box-sizing: border-box;
+}
+p{
+	text-align: justify;
+	width: 80%;
+}
+input{
+	background: #1C1D25 !important;
+	border-top: #1C1D25 !important;
+	border-left: #1C1D25 !important;
+	border-right: #1C1D25 !important;
+	/*outline: #1C1D25 !important;*/
+}
+button{
+	color: #fff !important;
+	background: #EF5F25 !important;
+}
+.social{
+	padding-top: 100px;
+}
+footer{
+	color: grey;
+	height: 80px;
+	line-height: 80px;
+}
